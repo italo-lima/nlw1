@@ -1,0 +1,12 @@
+backend/node_modules/
+backend/npm-debug.log
+backend/yarn-error.log
+
+web/node_modules/
+web/npm-debug.log
+web/yarn-error.log
+
+mobile/node_modules/
+mobile/npm-debug.log
+mobile/yarn-error.log
+/.vscode
